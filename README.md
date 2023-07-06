@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @Kushagra23dec
 - My skills are:
-- Data Structure and Algorithms.
-- ⚛️React Js.
-- Tailwind Css.
+- Languages: JavaScript, Java, CSS.
+- Libraries: ReactJs, Redux, Redux-Thunk, Redux Toolkit, RTK Query, Mongoose,
+Formik.
+- Framework: Express.js, Tailwind CSS.
+- Database: MongoDB.
+- Developer Tools: Visual Studio Code, Eclipse.
+
+ 
+![My Skills](https://skillicons.dev/icons?i=js,java,css,react,redux,mongodb,express,tailwind,vscode)
 
 <!---
 Kushagra23dec/Kushagra23dec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
